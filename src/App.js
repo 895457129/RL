@@ -1,9 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Test from "./test";
+import Test from './test';
 
 function App() {
+  this.state = {
+    a: 1,
+  };
   return (
     <div className="App">
       <Test />

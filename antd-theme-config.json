@@ -1,0 +1,10 @@
+{
+  "@layout-header-background": "#fff",
+  "@layout-body-background": "#fff",
+  "@layout-footer-background": "#f0f2f5",
+  "@table-row-hover-bg": "#ECF3FE",
+  "@menu-item-color": "#666",
+  "@primary-color": "#1f46e2",
+  "@layout-header-padding": "0 20px",
+  "@table-header-bg": "rgba(31, 70, 226, 0.07)"
+}
